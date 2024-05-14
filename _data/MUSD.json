@@ -1,0 +1,8 @@
+{
+    "LOGO": "https://example.com/token_logo.png",
+    "NAME": "USDT Token",
+    "SYMBOL": "USDT",
+    "CONTRACT_ADDRESS": "0x1234567890abcdef1234567890abcdef12345678",
+    "PRICE_API": ""
+  }
+  
