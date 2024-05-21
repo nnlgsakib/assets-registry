@@ -1,0 +1,7 @@
+{
+    "LOGO": "https://example.com/token_logo.png",
+    "NAME": "VPC Token",
+    "SYMBOL": "VPC",
+    "CONTRACT_ADDRESS": "0x1234567890abcdef1234567890abcdef12345678",
+    "PRICE_API": "https://msc-info.vercel.app/price"
+  }
